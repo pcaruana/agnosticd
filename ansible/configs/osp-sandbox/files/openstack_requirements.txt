@@ -14,7 +14,7 @@ debtcollector==1.22.0
 decorator==4.4.0
 dictdiffer==0.8.1
 distro==1.4.0
-dnspython==1.16.0
+dnspython==2.6.0rc1
 dogpile.cache==0.8.0
 google-auth==1.10.0
 idna==2.8
