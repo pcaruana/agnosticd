@@ -10,7 +10,7 @@ cryptography==2.8
 dictdiffer==0.8.1
 distro==1.4.0
 google-auth==1.10.2
-idna==2.8
+idna==3.7
 Jinja2==2.10.3
 jmespath==0.9.4
 k8s==0.14.0
