@@ -23,7 +23,7 @@ pyOpenSSL==19.1.0
 pyRFC3339==1.1
 python-dateutil==2.8.1
 pytz==2019.3
-requests==2.22.0
+requests==2.32.0
 requests-toolbelt==0.9.1
 s3transfer==0.3.3
 six==1.14.0
