@@ -8,7 +8,7 @@ certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
 ConfigArgParse==1.0
-configobj==5.0.6
+configobj==5.0.9
 cryptography==2.8
 distro==1.4.0
 dnspython==1.16.0
