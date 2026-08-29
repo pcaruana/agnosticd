@@ -11,7 +11,7 @@ colorama==0.4.1
 cryptography==2.8
 debtcollector==1.22.0
 decorator==4.4.0
-dnspython==1.16.0
+dnspython==2.6.0rc1
 dogpile.cache==0.8.0
 idna==2.8
 importlib-metadata==0.23
