@@ -14,7 +14,7 @@ debtcollector==1.22.0
 decorator==4.4.0
 dnspython==1.16.0
 dogpile.cache==0.8.0
-idna==2.8
+idna==3.7
 importlib-metadata==0.23
 iso8601==0.1.12
 Jinja2==2.10.3
